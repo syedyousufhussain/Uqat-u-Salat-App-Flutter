@@ -1,16 +1,9 @@
-# api_prac_3
+#Uqat u Salat 
 
-A new Flutter project.
+## A Brief
 
-## Getting Started
+Uqat-Salat App designed using google flutter framework and dart programming language, fetching data from REST API. This application can fetch live time for all salahs according to your location and can also find qibla directions from your locations coordinates. #flutter #dart #rest #api
+![WhatsApp Image 2024-03-09 at 11 59 37 AM](https://github.com/syedyousufhussain/Uqat-u-Salat-App-Flutter/assets/51918818/0bc40e0e-b972-4862-8919-02d912e4c417)
+![WhatsApp Image 2024-03-09 at 11 59 37 AM (1)](https://github.com/syedyousufhussain/Uqat-u-Salat-App-Flutter/assets/51918818/bdd6b6fb-9380-4cf4-bf70-fe311cef8029)
+![WhatsApp Image 2024-03-09 at 11 59 38 AM](https://github.com/syedyousufhussain/Uqat-u-Salat-App-Flutter/assets/51918818/0a06fbc8-a7eb-4ee5-96e4-b20531666d05)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
